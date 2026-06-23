@@ -87,6 +87,3 @@ interests:
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-
-```
-```
