@@ -20,55 +20,6 @@
 
 ```
 
-### 🚀 About Me
-
-Software Developer with experience in web development, mobile applications and database management.
-
-🔹 Full Stack Development
-🔹 Mobile Development with React Native
-🔹 REST APIs Integration
-🔹 MongoDB & MySQL
-🔹 JavaScript & Python
-
-I enjoy building software that solves real-world problems and continuously learning new technologies.
-
-```yaml
-name: Eduardo Islas
-location: Hidalgo, Mexico
-role: Software Developer
-education:
-  - Engineering in Software Development and Management
-  - TSU in Multiplatform Software Development
-
-languages:
-  - JavaScript
-  - Python
-  - SQL
-
-databases:
-  - MongoDB
-  - MySQL
-
-frameworks:
-  - React Native
-
-tools:
-  - Git
-  - GitHub
-  - Postman
-  - Moodle
-
-currently_learning:
-  - Backend Development
-  - Software Architecture
-  - Cloud Technologies
-
-interests:
-  - Full Stack Development
-  - Mobile Apps
-  - Software Engineering
-  - Open Source
-```
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduislas84&theme=algolia" alt="eduislas84"  /></p>
 
