@@ -70,7 +70,7 @@ interests:
   - Open Source
 ```
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduislas84&theme=algolia" alt="eduislas84"  /></p>
 
 
 ## 🛠️ My Skills
